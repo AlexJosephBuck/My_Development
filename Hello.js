@@ -1,5 +1,9 @@
 const Hello = "Hello";
 const Alex = "Alex";
-const Whitney = "Whitney"
+const Whitney = "Whitney";
 
-console.log(Hello);
+
+function Greeting(User, UserGuest){
+    console.log(Hello + " " + User + " and " + UserGuest );
+}
+Greeting(Alex, Whitney);
