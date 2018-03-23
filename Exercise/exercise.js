@@ -22,9 +22,13 @@ const secondAnswer = 10 - (3 * (5/4) + (202 % 3));
 console.log(firstAnswer, secondAnswer);
 
 //Exercise 6:
-
 console.log(String(12));
 console.log(Number("113"));
 console.log(Number("1.12356"));
 var stringConvert = Number("Hello World");
  console.log(stringConvert);
+
+ //Diving Deeper
+ 
+
+
